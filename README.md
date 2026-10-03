@@ -52,7 +52,14 @@ These tables are used to support the dashboard's analysis and visualizations.
 
 > Add a screenshot of your Power BI dashboard here.
 
-![Amazon Power BI Dashboard]("C:\Users\Buddy\Downloads\WhatsApp Image 2026-10-03 at 18.20.27.jpeg")
+cd "C:/Users/Buddy/Downloads"
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+cd YOUR_REPOSITORY
+cp "../WhatsApp Image 2026-10-03 at 18.20.27.jpeg" .
+git add .
+git commit -m "Upload image"
+git push
+
 
 ## 🔄 Project Workflow
 
