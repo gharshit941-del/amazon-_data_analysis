@@ -52,10 +52,7 @@ These tables are used to support the dashboard's analysis and visualizations.
 
 > Add a screenshot of your Power BI dashboard here.
 
-your-repository/
-│
-├── index.html
-└── WhatsApp Image 2026-10-03 at 18.20.27.jpeg
+![image alt](https://github.com/gharshit941-del/amazon-_data_analysis/blob/main/WhatsApp%20Image%202026-10-03%20at%2018.20.27.jpeg?raw=true)
 
 
 ## 🔄 Project Workflow
