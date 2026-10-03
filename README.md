@@ -52,13 +52,10 @@ These tables are used to support the dashboard's analysis and visualizations.
 
 > Add a screenshot of your Power BI dashboard here.
 
-cd "C:/Users/Buddy/Downloads"
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
-cp "../WhatsApp Image 2026-10-03 at 18.20.27.jpeg" .
-git add .
-git commit -m "Upload image"
-git push
+your-repository/
+│
+├── index.html
+└── WhatsApp Image 2026-10-03 at 18.20.27.jpeg
 
 
 ## 🔄 Project Workflow
